@@ -1,0 +1,41 @@
+Household_Ref,District,EPA_Name,Section_Name,Block_Number,Zone,Gender_HH,Total_Household_Members,Plot_Location_Code,Recorded_Plot_Size_Ha,Plot_Size_Method,Primary_Crop,Secondary_Crop,Soil_Type_Topography,Tenure_Status,Tenure_Recorded_Season,Target_Fertilizer_Bags,AIP_Beneficiary,Record_Last_Updated,flag_plot_size_unmeasured,flag_location_stale,flag_intercrop_undeclared,flag_record_age_seasons
+H-0183E4CA55,Mulanje,Chonde,Chonde North,B05,lowland,M,6,MLJ-CHO-00001,0.49,measured,maize,,sandy loam,customary,2025/26,2,0,2026-05-09,0,0,1,1
+H-DB6AB905B1,Mulanje,Chonde,Chonde North,B05,lowland,M,2,MLJ-CHO-00002,0.2,eyeballed,maize,pigeon peas,sandy loam,customary,2023/24,1,1,2026-08-11,1,0,0,3
+H-084C3F05AD,Mulanje,Chonde,Chonde North,B05,lowland,M,5,MLJ-CHO-00003,0.41,eyeballed,maize,cassava,sandy loam,rented,2026/27,2,0,2026-02-02,1,0,0,0
+H-8E04BCC899,Mulanje,Chonde,Chonde North,B04,lowland,M,4,MLJ-CHO-00004,0.15,eyeballed,maize,pigeon peas,clay loam,borrowed,2025/26,1,1,2026-01-22,1,1,0,1
+H-63F11B625C,Mulanje,Chonde,Chonde North,B03,lowland,F,3,MLJ-CHO-00005,1.0,eyeballed,maize,pigeon peas,sandy loam,customary,2025/26,4,0,2025-12-25,1,0,0,1
+H-E4F6878CAD,Mulanje,Chonde,Chonde North,B02,lowland,F,8,MLJ-CHO-00006,1.5,eyeballed,maize,cassava,sandy loam,rented,2026/27,6,0,2025-11-25,1,0,0,0
+H-567B516057,Mulanje,Chonde,Chonde North,B06,lowland,F,8,MLJ-CHO-00007,0.48,paced,maize,groundnuts,sandy loam,rented,2025/26,2,0,2026-03-23,1,1,0,1
+H-DEDF4667EA,Mulanje,Chonde,Chonde North,B06,lowland,M,4,MLJ-CHO-00008,0.15,paced,maize,,alluvial,customary,2026/27,1,0,2024-05-28,1,0,0,0
+H-393BB7EC1F,Mulanje,Chonde,Chonde North,B03,lowland,M,5,MLJ-CHO-00009,0.45,measured,maize,,sandy loam,customary,2026/27,2,0,2025-12-22,0,0,0,0
+H-CFCE550C7F,Mulanje,Chonde,Chonde North,B05,lowland,M,2,MLJ-CHO-00010,1.0,eyeballed,maize,,sandy loam,borrowed,2026/27,4,1,2025-03-07,1,0,0,0
+H-1F45AF91A5,Mulanje,Chonde,Chonde North,B06,lowland,M,4,MLJ-CHO-00011,0.2,eyeballed,maize,,sandy loam,customary,2026/27,1,0,2024-08-09,1,0,1,0
+H-0AF44A484D,Mulanje,Chonde,Chonde North,B06,lowland,M,5,MLJ-CHO-00012,0.3,paced,maize,,clay loam,rented,2025/26,1,1,2025-10-14,1,1,1,1
+H-586BD7A659,Mulanje,Chonde,Chonde North,B01,lowland,M,6,MLJ-CHO-00013,0.48,measured,maize,,alluvial,rented,2025/26,2,0,2026-03-05,0,1,0,1
+H-2CBD2CEB6D,Mulanje,Chonde,Chonde North,B05,lowland,M,5,MLJ-CHO-00014,0.51,paced,maize,,sandy loam,rented,2024/25,2,0,2026-03-22,1,1,1,2
+H-0FFB7AFCAA,Mulanje,Chonde,Chonde North,B06,lowland,M,6,MLJ-CHO-00015,0.4,eyeballed,maize,,clay loam,customary,2026/27,2,0,2025-05-20,1,0,0,0
+H-B867A3ADAD,Mulanje,Chonde,Chonde North,B05,lowland,M,5,MLJ-CHO-00016,0.75,paced,maize,,sandy loam,customary,2023/24,3,0,2024-10-17,1,0,0,3
+H-44C2440270,Mulanje,Chonde,Chonde North,B01,lowland,M,4,MLJ-CHO-00017,0.24,paced,maize,,sandy loam,customary,2026/27,1,0,2025-01-22,1,0,0,0
+H-6014348FD2,Mulanje,Chonde,Chonde North,B04,lowland,M,7,MLJ-CHO-00018,0.37,eyeballed,maize,,clay loam,customary,2026/27,1,0,2025-07-31,1,0,0,0
+H-917A16F36E,Mulanje,Chonde,Chonde North,B04,lowland,F,4,MLJ-CHO-00019,0.84,paced,maize,groundnuts,clay loam,customary,2026/27,3,1,2026-07-16,1,0,0,0
+H-17274BADC3,Mulanje,Chonde,Chonde North,B04,lowland,F,5,MLJ-CHO-00020,1.01,paced,maize,,clay loam,customary,2024/25,4,1,2026-08-28,1,0,1,2
+H-A367CA8E0E,Mulanje,Chonde,Chonde North,B02,lowland,F,6,MLJ-CHO-00021,0.37,eyeballed,maize,beans,alluvial,customary,2026/27,1,0,2024-08-30,1,0,0,0
+H-ACDEE15A03,Mulanje,Chonde,Chonde North,B01,lowland,F,5,MLJ-CHO-00022,0.19,measured,maize,,alluvial,rented,2025/26,1,1,2026-01-23,0,1,1,1
+H-F832B664E3,Mulanje,Chonde,Chonde North,B05,lowland,M,6,MLJ-CHO-00023,0.57,paced,maize,,sandy loam,customary,2025/26,2,1,2025-07-03,1,0,1,1
+H-AEA2B45E08,Mulanje,Chonde,Chonde North,B06,lowland,M,6,MLJ-CHO-00024,0.17,paced,maize,groundnuts,clay loam,borrowed,2024/25,1,1,2026-08-05,1,1,0,2
+H-238933C0B7,Mulanje,Chonde,Chonde North,B05,lowland,M,3,MLJ-CHO-00025,0.17,paced,maize,,sandy loam,rented,2026/27,1,0,2025-09-25,1,0,1,0
+H-751CFA4128,Mulanje,Chonde,Chonde North,B06,lowland,M,9,MLJ-CHO-00026,0.18,paced,maize,cassava,clay loam,rented,2024/25,1,0,2025-12-03,1,1,0,2
+H-B0B2188536,Mulanje,Chonde,Chonde North,B06,lowland,F,2,MLJ-CHO-00027,0.46,paced,maize,groundnuts,sandy loam,customary,2024/25,2,0,2026-05-24,1,0,0,2
+H-643A0C5571,Mulanje,Chonde,Chonde North,B02,lowland,M,4,MLJ-CHO-00028,0.71,paced,maize,,alluvial,customary,2025/26,3,1,2024-11-07,1,0,0,1
+H-C6D28777A2,Mulanje,Chonde,Chonde North,B03,lowland,M,6,MLJ-CHO-00029,1.0,eyeballed,maize,,sandy loam,rented,2026/27,4,1,2026-08-11,1,0,1,0
+H-1E72B26D14,Mulanje,Chonde,Chonde North,B05,lowland,F,7,MLJ-CHO-00030,0.57,paced,maize,cassava,sandy loam,customary,2025/26,2,1,2025-09-19,1,0,0,1
+H-EFF7169BF0,Mulanje,Chonde,Chonde North,B06,lowland,M,8,MLJ-CHO-00031,0.25,paced,maize,,sandy loam,rented,2026/27,1,0,2026-01-12,1,0,1,0
+H-C6E2C62C95,Mulanje,Chonde,Chonde North,B02,lowland,M,5,MLJ-CHO-00032,0.44,eyeballed,maize,,clay loam,rented,2025/26,2,0,2025-09-02,1,1,1,1
+H-72E93EC7D2,Mulanje,Chonde,Chonde North,B05,lowland,M,5,MLJ-CHO-00033,0.37,eyeballed,maize,beans,clay loam,borrowed,2026/27,1,0,2026-03-18,1,0,0,0
+H-95A67ACD43,Mulanje,Chonde,Chonde North,B04,lowland,M,5,MLJ-CHO-00034,0.64,eyeballed,maize,,alluvial,customary,2025/26,3,0,2026-08-03,1,0,1,1
+H-AFC29DFFAB,Mulanje,Chonde,Chonde North,B06,lowland,F,6,MLJ-CHO-00035,0.34,paced,maize,,alluvial,borrowed,2024/25,1,0,2026-06-09,1,1,0,2
+H-8778C75C90,Mulanje,Chonde,Chonde North,B05,lowland,M,4,MLJ-CHO-00036,0.34,paced,maize,,alluvial,customary,2025/26,1,1,2026-05-22,1,0,0,1
+H-039F827FBC,Mulanje,Chonde,Chonde North,B04,lowland,M,3,MLJ-CHO-00037,0.42,measured,maize,,clay loam,customary,2025/26,2,0,2026-08-14,0,0,1,1
+H-3E5D0123D6,Mulanje,Chonde,Chonde North,B01,lowland,M,5,MLJ-CHO-00038,0.73,paced,maize,cassava,sandy loam,customary,2025/26,3,0,2025-02-14,1,0,0,1
+H-5A488D6A06,Mulanje,Chonde,Chonde North,B05,lowland,M,7,MLJ-CHO-00039,0.14,paced,maize,groundnuts,clay loam,customary,2024/25,1,0,2025-03-27,1,0,0,2
+H-3E9D04BF68,Mulanje,Chonde,Chonde North,B03,lowland,F,5,MLJ-CHO-00040,0.25,measured,maize,,alluvial,customary,2026/27,1,0,2025-07-02,0,0,1,0
